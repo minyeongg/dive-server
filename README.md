@@ -29,8 +29,8 @@
 **Api Docs** - <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=for-the-social&logo=Spring&logoColor=white">
 
 ## Database Schema
-<img src="https://github.com/minyeongg/dive-server/assets/dive_erd.png" width="900">
+<img src="https://github.com/minyeongg/dive-server/blob/main/assets/dive_erd.png" width="900">
 
 ## DEV Server Architecture
-<img width="912" alt="image" src="https://github.com/minyeongg/dive-server/assets/image.png">
+<img width="912" alt="image" src="https://github.com/minyeongg/dive-server/blob/main/assets/image.png">
 
