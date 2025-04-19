@@ -1,5 +1,6 @@
 # DIVE <a href="https://legendary-starship-4ac160.netlify.app/"> <img src="https://github.com/minyeongg/dive-server/blob/main/assets/dive_logo.png" align="left" width="100"></a>
 ### 개발자를 위한 기술면접 연습 피드백 서비스
+https://legendary-starship-4ac160.netlify.app
 <br>
 
 ## 주요 기능
