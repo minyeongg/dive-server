@@ -11,8 +11,9 @@ https://legendary-starship-4ac160.netlify.app
 - Claude 및 다른 사용자의 피드백 받기
 - 소셜로그인
 
-## Backend Developer
-- <a href="https://github.com/minyeongg">박민영</a>
+## Developers
+**Front-end** : <a href="https://github.com/skdltn210">고은수</a>
+**Back-end** : <a href="https://github.com/minyeongg">박민영</a>
 
 
 ## Tech Stack
