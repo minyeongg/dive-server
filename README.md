@@ -20,7 +20,7 @@ https://legendary-starship-4ac160.netlify.app
 
 **ORM** - <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">
 
-**Authorization** - <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white">
+**Authorization** - <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/JWT-000000?logo=JSON Web Tokens&logoColor=white">
 
 **Database** - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-social&logo=MySQL&logoColor=white">
 
