@@ -16,13 +16,13 @@ https://legendary-starship-4ac160.netlify.app
 
 
 ## Tech Stack
-**Framework** - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white">
+**Framework** - <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-social&logo=SpringBoot&logoColor=white">  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white">
 
 **ORM** - <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">
 
 **Authorization** - <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-social&logo=springsecurity&logoColor=white">  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-social&logo=JSON Web Tokens&logoColor=white">
 
-**Database** - <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+**Database** - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-social&logo=MySQL&logoColor=white">
 
 **Cloud** - <img src ="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-social&logo=amazonec2&logoColor=white">  <img src ="https://img.shields.io/badge/AWS S3-569A31?style=for-the-social&logo=amazons3&logoColor=white"> 
 
