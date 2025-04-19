@@ -12,7 +12,7 @@ https://legendary-starship-4ac160.netlify.app
 - 소셜로그인
 
 ## Developers
-**Front-end** : <a href="https://github.com/skdltn210">고은수</a>
+**Front-end** : <a href="https://github.com/skdltn210">고은수</a> <br>
 **Back-end** : <a href="https://github.com/minyeongg">박민영</a>
 
 
