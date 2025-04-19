@@ -16,7 +16,7 @@ https://legendary-starship-4ac160.netlify.app
 
 
 ## Tech Stack
-**Framework** - <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F%3Flogo%3DSpring%20Boot%26logoColor%3Dwhite
+**Framework** - <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F%3F?logo%3DSpring%20Boot%26logoColor%3Dwhite
 ">  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-social&logo=Gradle&logoColor=white">
 
 **ORM** - <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-social&logo=Databricks&logoColor=white">
