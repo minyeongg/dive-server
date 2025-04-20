@@ -29,6 +29,9 @@ https://legendary-starship-4ac160.netlify.app
 
 **Api Docs** - <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-social&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=for-the-social&logo=Spring&logoColor=white">
 
+**Tools** - <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20Transcribe-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/Claude%20API-5728D7?style=flat-square&logo=Anthropic&logoColor=white">
+
+
 ## Database Schema
 <img src="https://github.com/minyeongg/dive-server/blob/main/assets/dive_erd.png" width="900">
 
